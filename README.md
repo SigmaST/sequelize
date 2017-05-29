@@ -1,16 +1,18 @@
 # Sequelize
 
 [![Build Status](https://travis-ci.org/sequelize/sequelize.svg?branch=master)](https://travis-ci.org/sequelize/sequelize)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/8xhttm9pxmbmtbwb/branch/master?svg=true)](https://ci.appveyor.com/project/felixfbecker/sequelize/branch/master)
-[![Coverage Status](https://coveralls.io/repos/github/sequelize/sequelize/badge.svg?branch=master)](https://coveralls.io/github/sequelize/sequelize?branch=master)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/9l1ypgwsp5ij46m3/branch/master?svg=true)](https://ci.appveyor.com/project/sushantdhiman/sequelize/branch/master)
+[![codecov](https://codecov.io/gh/sequelize/sequelize/branch/master/graph/badge.svg)](https://codecov.io/gh/sequelize/sequelize)
 [![Bountysource](https://www.bountysource.com/badge/team?team_id=955&style=bounties_received)](https://www.bountysource.com/teams/sequelize/issues?utm_source=Sequelize&utm_medium=shield&utm_campaign=bounties_received)
-[![Slack Status](http://sequelize-slack.herokuapp.com/badge.svg)](http://sequelize.slack.com)
+[![Slack Status](http://sequelize-slack.herokuapp.com/badge.svg)](http://sequelize-slack.herokuapp.com/)
 [![npm](https://img.shields.io/npm/dm/sequelize.svg?maxAge=2592000)](https://www.npmjs.com/package/sequelize)
 [![License](https://img.shields.io/npm/l/sequelize.svg?maxAge=2592000?style=plastic)](https://github.com/sequelize/sequelize/blob/master/LICENSE)
 
 Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.
 
-[Documentation](http://sequelize.readthedocs.org/en/stable/)
+[Stable (v4) documentation](http://docs.sequelizejs.com)
+
+[v3 documentation](https://sequelize.readthedocs.io/en/v3/)
 
 ## Installation
 
@@ -38,10 +40,9 @@ If you have any security issue to report, contact project maintainers privately.
 
 ## Resources
 - [Changelog](https://github.com/sequelize/sequelize/blob/master/changelog.md)
-- [Getting Started](http://docs.sequelizejs.com/en/stable/docs/getting-started/)
+- [Getting Started](http://docs.sequelizejs.com/manual/installation/getting-started)
 - [Express Example](https://github.com/sequelize/express-example)
-- [Documentation](http://docs.sequelizejs.com/en/stable/)
-- [API Reference](http://docs.sequelizejs.com/en/stable/)
+- [Documentation](http://docs.sequelizejs.com)
 - [Collaboration and pull requests](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)
 - [Roadmap](https://github.com/sequelize/sequelize/issues/2869)
 - [Twitter](https://twitter.com/SequelizeJS): @SequelizeJS
